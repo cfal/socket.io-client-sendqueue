@@ -1,0 +1,21 @@
+{
+  "name": "socket.io-client-sendqueue",
+  "version": "1.0.0",
+  "description": "Queues messages from a socket.io-client instance when not connected",
+  "author": "Alex Lau",
+  "license": "MIT",
+  "keywords": [
+    "socket.io",
+    "queue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfal/socket.io-client-sendqueue.js"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "gulp": "*",
+    "gulp-uglify": "*"
+  }
+}
+
